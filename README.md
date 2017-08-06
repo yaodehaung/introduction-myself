@@ -1,3 +1,5 @@
+其他的專案的細節會放在github wiki中
+
 ### 檔案結構
 
 ```
@@ -7,7 +9,9 @@
 │   │── fonts
 │   └── js
 │
+│
 │── CREDIT.txt
+│
 │
 ├── elements.html
 │   
